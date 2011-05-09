@@ -79,7 +79,7 @@ end
 )
 
 git :add => '.'
-git :commit => '-a -m "applied application template"'
+git :commit => '-a -m "Apply application template"'
 
 puts <<__END
 Done.
